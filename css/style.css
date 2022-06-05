@@ -1,0 +1,62 @@
+ body{
+     background-color: aqua;
+ }
+ 
+ 
+ 
+ 
+ h4{
+     margin: 30px;
+     padding: 20px;
+ }
+ 
+ 
+ .blue{
+     float: right;
+ } 
+ 
+ .sen{
+    width: 300px;
+    height: 100px;
+    font-weight: bolder;
+    background-color: green;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    margin: 5px;
+
+   }
+
+   .sen:hover{
+       cursor: pointer;
+       background-color: red;
+   }
+
+
+ .enc{
+     width: 300px;
+     height: 100px;
+     font-weight: bolder;
+     background-color: blue;
+     border-radius: 50px;
+     color: white;
+     text-align: center;
+     margin: 5px;
+     float: right;
+ }
+
+ .enc:hover{
+     cursor: pointer;
+     background-color: red;
+ }
+
+
+/* .original{
+    width: 300px;
+    float: left;
+}
+
+.encoded{
+    width: 300px;
+    float: right;
+} */
